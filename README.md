@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ## Change patch and model 
 
-Navigate to postprocess.py and set up patch and model paths
+Navigate to [postprocess.py](https://github.com/Illia-tsar/HelperFunctions/blob/31551174384d6157139a6d4c2458ad4414dd911a/postprocess.py#L164) and set up patch and model paths
 
 ## Run the Script
 
